@@ -1,6 +1,6 @@
 {
-  "version": "v20.12.46 (patches: 5.27.0)",
-  "versionCode": 63,
-  "zipUrl": "https://github.com/supercyen041/revanced-magisk-module/releases/download/63/youtube-revanced-magisk-v20.12.46-all.zip",
+  "version": "v20.12.46 (patches: 5.28.0)",
+  "versionCode": 64,
+  "zipUrl": "https://github.com/supercyen041/revanced-magisk-module/releases/download/64/youtube-revanced-magisk-v20.12.46-all.zip",
   "changelog": "https://raw.githubusercontent.com/supercyen041/revanced-magisk-module/update/build.md"
 }
