@@ -1,6 +1,6 @@
 {
-  "version": "v8.05.51 (patches: 5.31.1)",
-  "versionCode": 68,
-  "zipUrl": "https://github.com/supercyen041/revanced-magisk-module/releases/download/68/music-revanced-magisk-v8.05.51-arm-v7a.zip",
+  "version": "v8.05.51 (patches: 5.31.2)",
+  "versionCode": 69,
+  "zipUrl": "https://github.com/supercyen041/revanced-magisk-module/releases/download/69/music-revanced-magisk-v8.05.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/supercyen041/revanced-magisk-module/update/build.md"
 }
